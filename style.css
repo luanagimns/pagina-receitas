@@ -17,7 +17,7 @@ body{
 #page {
     box-sizing: border-box;
     max-width: 800px;
-    width: 90%;
+    width: 100%;
 
     padding: 24px;
     background-color: #f0e8c2;
@@ -34,7 +34,7 @@ section + section{
 }
 
 main{
-    padding 24px;
+    padding: 24px;
 }
 
 #about p + p{
@@ -51,8 +51,8 @@ h2{
 }
 
 h1, h2{
-    color #291b1a;
-    margin-bottom: 4x;
+    color: #291b1a;
+    margin-bottom: 4px;
     line-height: 150%;
 }
 
@@ -63,7 +63,7 @@ ul{
 footer {
     color: #f0e8c2;
     text-align: center;
-    padding: bottom 48px;x;
+    padding: bottom 48px;
 }
 
 footer img{
