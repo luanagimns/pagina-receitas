@@ -14,13 +14,15 @@ body{
     background-size: cover;
 }
 
-#page{
+#page {
     box-sizing: border-box;
-    with: 800%;
+    max-width: 800px;
+    width: 90%;
+
     padding: 24px;
-    background-color: #f0e8c2
+    background-color: #f0e8c2;
     border-radius: 24px;
-    margin: 48px auto 28px;
+    margin: 24px auto;
 }
 
 img{
